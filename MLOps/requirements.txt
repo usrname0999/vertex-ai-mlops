@@ -105,7 +105,7 @@ matplotlib==3.10.3
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 ml_dtypes==0.5.1
-mlflow==2.22.0
+mlflow==3.1.0
 mlflow-skinny==2.22.0
 multidict==6.4.4
 namex==0.1.0
@@ -124,12 +124,12 @@ pandas==2.2.3
 pandas-gbq==0.29.0
 parso==0.8.4
 pexpect==4.9.0
-pillow==11.2.1
+pillow==11.3.0
 platformdirs==4.3.8
 prompt_toolkit==3.0.51
 propcache==0.3.1
 proto-plus==1.26.1
-protobuf==4.25.8
+protobuf==6.31.1
 psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -147,7 +147,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 PyYAML==6.0.2
 pyzmq==26.4.0
-requests==2.32.3
+requests==2.32.4
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 rich==13.9.4
@@ -180,7 +180,7 @@ traitlets==5.14.3
 typing-inspection==0.4.1
 typing_extensions==4.13.2
 tzdata==2025.2
-urllib3==2.4.0
+urllib3==2.5.0
 uvicorn==0.34.2
 wcwidth==0.2.13
 websocket-client==1.8.0
