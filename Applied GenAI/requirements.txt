@@ -21,7 +21,7 @@ pexpect==4.9.0
 prompt_toolkit==3.0.51
 ptyprocess==0.7.0
 pure_eval==0.2.3
-pyasn1==0.6.1
+pyasn1==0.6.2
 pyasn1_modules==0.4.2
 pydantic==2.11.4
 pydantic_core==2.33.2
@@ -33,6 +33,6 @@ stack-data==0.6.3
 traitlets==5.14.3
 typing-inspection==0.4.0
 typing_extensions==4.13.2
-urllib3==2.4.0
+urllib3==2.6.3
 wcwidth==0.2.13
 websockets==15.0.1
