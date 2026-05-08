@@ -6,7 +6,7 @@ anyio==4.9.0
 asttokens==3.0.0
 attrs==25.3.0
 audioop-lts==0.2.1
-Authlib==1.5.2
+Authlib==1.6.11
 blinker==1.9.0
 cachetools==5.5.2
 certifi==2025.4.26
@@ -15,7 +15,7 @@ charset-normalizer==3.4.1
 click==8.1.8
 cloudpickle==3.1.1
 comm==0.2.2
-cryptography==44.0.2
+cryptography==46.0.7
 db-dtypes==1.4.3
 debugpy==1.8.14
 decorator==5.2.1
@@ -100,7 +100,7 @@ packaging==24.2
 pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0
-pillow==11.2.1
+pillow==12.2.0
 platformdirs==4.3.8
 prompt_toolkit==3.0.51
 proto-plus==1.26.1
@@ -121,8 +121,8 @@ Pygments==2.19.1
 PyMuPDF==1.26.0
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
-python-dotenv==1.1.0
-python-multipart==0.0.20
+python-dotenv==1.2.2
+python-multipart==0.0.27
 pytz==2025.2
 PyYAML==6.0.2
 pyzmq==26.4.0
@@ -148,7 +148,7 @@ tabulate==0.9.0
 tenacity==9.1.2
 toml==0.10.2
 tomlkit==0.13.2
-tornado==6.5.1
+tornado==6.5.5
 tqdm==4.67.1
 traitlets==5.14.3
 typer==0.16.0
